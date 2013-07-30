@@ -9,3 +9,8 @@ code snippets on your website.
 
 See the [official Solarized homepage](http://ethanschoonover.com/solarized) for more 
 information about Solarized and to get the color schemes for your favorite editor.
+
+Examples
+--------
+
+See the [`examples`](tree/master/examples/) directory.
