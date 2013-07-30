@@ -13,4 +13,4 @@ information about Solarized and to get the color schemes for your favorite edito
 Examples
 --------
 
-See the [`examples`](tree/master/examples/) directory.
+See the [examples](examples) directory.
