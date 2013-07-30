@@ -16,6 +16,7 @@ pre.prettyprint {
   margin: 1em auto;
   padding: 1em;
   white-space: pre-wrap;
+  border: 1px solid #eee8d5;
 }
 
 .kwd { color: #268bd2; } /* keyword */
